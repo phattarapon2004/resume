@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Phattarapon Opas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .header, .section {
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+        }
+        .section h2 {
+            margin-bottom: 10px;
+        }
+        .contact, .skill-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .contact li, .skill-list li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Phattarapon Opas</h1>
+        <h2>Software Developer</h2>
+        <ul class="contact">
+            <li>Phone: 097-348-7504</li>
+            <li>Email: <a href="mailto:phattarapon048@gmail.com">phattarapon048@gmail.com</a></li>
+            <li>Birthday: 4/8/2004</li>
+            <li>Age: 20</li>
+            <li>Country: Thai</li>
